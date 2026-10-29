@@ -46,10 +46,10 @@ The lab utilizes VirtualBox's **NAT Network** mode rather than standard NAT. Thi
   ![Kali Linux Terminal](screenshots/kali-Vm-terminal.png)
 
 
-- **Network Interface Configuration:**
+ * **Network Interface Configuration:**
   ![Kali Linux Network Interface](screenshots/kali-network-interface.png)
 
-- **Network Settings & Routing:**
+*  **Network Settings & Routing:**
   ![Kali Linux Network Settings](screenshots/kali-network-settings.png)
 
 
