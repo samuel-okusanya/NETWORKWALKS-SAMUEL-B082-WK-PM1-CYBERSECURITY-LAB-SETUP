@@ -37,6 +37,22 @@ The lab utilizes VirtualBox's **NAT Network** mode rather than standard NAT. Thi
 1. Outbound internet access for updating system packages and installing tools.
 2. Direct IP communication between multiple virtual machines on the same private sub-network, preparing the lab for multi-VM attack/defense scenarios.
 
+## 📷 Screenshots & Visual Evidence
+
+* **VirtualBox Configuration:**
+  ![VirtualBox Settings](screenshots/kali-vm-settings.png)
+
+* **Kali Linux Desktop & Interface:**
+  ![Kali Linux Terminal](screenshots/kali-Vm-terminal.png)
+
+
+- **Network Interface Configuration:**
+  ![Kali Linux Network Interface](screenshots/kali-network-interface.png)
+
+- **Network Settings & Routing:**
+  ![Kali Linux Network Settings](screenshots/kali-network-settings.png)
+
+
 ---
 
 ## Installation & Setup Steps
